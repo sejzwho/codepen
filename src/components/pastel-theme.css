@@ -1,0 +1,104 @@
+/* pastel-theme.css */
+
+.CodeMirror {
+    font-family: monospace;
+    height: auto;
+  }
+  
+  /* Line styles */
+  .CodeMirror-line {
+    color: #333;
+    background-color: #f8f8f8; /* Pastel background color */
+    padding: 4px 0;
+  }
+  
+  .CodeMirror-gutters {
+    border-right: 1px solid #ddd;
+    background-color: #f8f8f8; /* Pastel background color */
+  }
+  
+  /* Syntax highlighting colors */
+  .cm-keyword {
+    color: #7f0055; /* Pastel keyword color */
+  }
+  
+  .cm-atom {
+    color: #0086b3; /* Pastel atom color */
+  }
+  
+  .cm-number {
+    color: #0086b3; /* Pastel number color */
+  }
+  
+  .cm-def {
+    color: #333; /* Pastel definition color */
+  }
+  
+  .cm-variable {
+    color: #900; /* Pastel variable color */
+  }
+  
+  .cm-variable-2 {
+    color: #555; /* Pastel variable-2 color */
+  }
+  
+  .cm-variable-3 {
+    color: #06287e; /* Pastel variable-3 color */
+  }
+  
+  .cm-property {
+    color: #006; /* Pastel property color */
+  }
+  
+  .cm-operator {
+    color: #9a6e3a; /* Pastel operator color */
+  }
+  
+  .cm-comment {
+    color: #a50; /* Pastel comment color */
+  }
+  
+  .cm-string {
+    color: #d14; /* Pastel string color */
+  }
+  
+  .cm-string-2 {
+    color: #a50; /* Pastel string-2 color */
+  }
+  
+  .cm-meta {
+    color: #555; /* Pastel meta color */
+  }
+  
+  .cm-builtin {
+    color: #30a; /* Pastel builtin color */
+  }
+  
+  .cm-tag {
+    color: #06287e; /* Pastel tag color */
+  }
+  
+  .cm-attribute {
+    color: #9a6e3a; /* Pastel attribute color */
+  }
+  
+  .cm-header {
+    color: #900; /* Pastel header color */
+  }
+  
+  .cm-quote {
+    color: #090; /* Pastel quote color */
+  }
+  
+  .cm-link {
+    color: #00c; /* Pastel link color */
+  }
+  
+  .cm-error {
+    color: #f00; /* Pastel error color */
+  }
+  
+  .cm-invalidchar {
+    color: #f00; /* Pastel invalidchar color */
+  }
+  
